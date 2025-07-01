@@ -88,7 +88,7 @@ export const About = () => {
                 <div>
                   <h4 className="font-semibold">
                     {" "}
-                    Programmer Intern at UnoTeams Software Pvt Ltd (Jun 2023 - Feb 2024){" "}
+                    Programmer Intern at UnoTeams Software Pvt Ltd (Jun 2024 - Jan 2025){" "}
                   </h4>
                   <p>
                   Developed a secure login ecosystem with React.js, implementing user authentication, Formik/Yup validation, localStorage sessions, and protected routes—enhancing front-end expertise while prioritizing UX and independent problem-solving.
@@ -98,7 +98,7 @@ export const About = () => {
                 <div>
                   <h4 className="font-semibold">
                     {" "}
-                    Intern at Raise Digital (2020){" "}
+                    Intern at Raise Digital (2022){" "}
                   </h4>
                   <p>
                   "Built an e-commerce website from scratch using HTML, CSS, and JavaScript, implementing responsive design and product displays for a seamless user experience."
